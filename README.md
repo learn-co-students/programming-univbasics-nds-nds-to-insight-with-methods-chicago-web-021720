@@ -1,3 +1,4 @@
+
 # Derive Insight from NDS Using Methods
 
 ## Learning Goals
